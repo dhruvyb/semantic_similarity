@@ -1,3 +1,7 @@
+#Example file added.
+#Changing from "en_core_web_md" to "en_core_web_sm" gave an error stating that vector words are not loaded 
+#and the similarity checking is not as effective. There are many differences between the similarity values
+
 #************* HELP *****************
 #REMEMBER THAT IF YOU NEED SUPPORT ON ANY ASPECT OF YOUR COURSE SIMPLY LOG IN TO www.hyperiondev.com/support TO:
 #START A CHAT WITH YOUR MENTOR, SCHEDULE A CALL OR GET SUPPORT OVER EMAIL.
